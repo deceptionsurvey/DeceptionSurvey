@@ -1,16 +1,24 @@
-## Hi there 👋
+# DeceptionSurvey
 
-<!--
-**deceptionsurvey/DeceptionSurvey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 This repository is not the main focus. Please refer to our [website](https://deceptionsurvey.com/) for more information!
 
-Here are some ideas to get you started:
+For an in-depth analysis of **Deception Alignment**, we extend an invitation to peruse our expansive and meticulous survey, which can be accessed [here](https://deceptionsurvey.com/). Preprint version will be released soon. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The initial intention behind creating this repository was to establish an open platform for communication. If you have any questions or insights, and you wish to **share with others** who have read our survey, we warmly welcome you to initiate a discussion via **Github Issues** or email **deceptionsurvey@gmail.com**.
+
+Please visit **www.deceptionsurvey.com** for further exploration.
+
+
+> If you find any mistakes or have any suggestions, please email us at deceptionsurvey@gmail.com or directly raise a question in the GitHub Issue. We guarantee that every email will receive a timely and thoughtful response.
+>
+> If you find our survey useful for your research, please cite our survey:
+```
+@article{pku2024deception,
+	title={AI Deception: A Comprehensive Survey},
+	author={PKU-Alignment Team},
+	year={2025},
+	institution={Peking University},
+	url={https://deceptionsurvey.com/},
+	keywords={AI Deception, Survey, AI Safety, Alignment}
+	}
+```
