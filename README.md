@@ -13,8 +13,8 @@ Please visit **www.deceptionsurvey.com** for further exploration.
 >
 > If you find our survey useful for your research, please cite our survey:
 ```
-@article{pku2024deception,
-	title={AI Deception: A Comprehensive Survey},
+@article{pku2025deception,
+	title={Shadows of Intelligence: A Comprehensive Survey of AI Deception},
 	author={PKU-Alignment Team},
 	year={2025},
 	institution={Peking University},
