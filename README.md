@@ -9,7 +9,7 @@ The initial intention behind creating this repository was to establish an open p
 Please visit **www.deceptionsurvey.com** for further exploration.
 
 
-> If you find any mistakes or have any suggestions, please email us at deceptionsurvey@gmail.com or directly raise a question in the GitHub Issue. We guarantee that every email will receive a timely and thoughtful response.
+> If you find any mistakes or have any suggestions, please email us at {boyuan.chen.byc, deceptionsurvey}@gmail.com or directly raise a question in the GitHub Issue. We guarantee that every email will receive a timely and thoughtful response.
 >
 > If you find our survey useful for your research, please cite our survey:
 ```
