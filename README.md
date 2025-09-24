@@ -22,3 +22,5 @@ Please visit **www.deceptionsurvey.com** for further exploration.
   keywords     = {AI Deception, Survey, AI Safety, Alignment}
 }
 ```
+
+We thank all collaborators from Anthropic, ETH, Oxford, UC Berkeley, Johns Hopkins University, Singapore, SafeAI Forum, and Concordia AI for their valuable feedback. A preprint version will be released soon.
